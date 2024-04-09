@@ -48,4 +48,3 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: <a href = "https://stevendevblockchain.vercel.app">https://stevendevblockchain.vercel.app</a>
 - 😄 Pronouns: He/him
--->
