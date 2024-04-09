@@ -43,8 +43,5 @@
 <a href = "#"><img src="https://camo.githubusercontent.com/34e04aaeafcd472a67b3929396aaefdac0769dae7c000ef6f3f71ddc2142fb04/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f422f62696e616e63652d636f696e2d626e622d6c6f676f2d434439344343364433312d7365656b6c6f676f2e636f6d2e706e67" width="50" title="Binance"></a>
 <a href = "#"><img src="https://camo.githubusercontent.com/83bdc2eb7ff097fb44861060babe079c3b009040f7d807156b4f4b6a82be2af5/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706f6c79676f6e2d6d617469632d6c6f676f2d314446444133413341382d7365656b6c6f676f2e636f6d2e706e67" width="50" title="Poligon"></a>
 
-
-Here are some ideas to get you started:
-
 - 📫 How to reach me: <a href = "https://stevendevblockchain.vercel.app">https://stevendevblockchain.vercel.app</a>
 - 😄 Pronouns: He/him
