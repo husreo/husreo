@@ -38,9 +38,7 @@
 <a href = "#"><img src="https://camo.githubusercontent.com/bb5fb828a63292e68a53977854a258e04976ed0b334cb705767d968c6231bb2a/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f532f736f6c616e612d736f6c2d6c6f676f2d313238323841443233442d7365656b6c6f676f2e636f6d2e706e673f763d363337393434343438383930303030303030" width="60" title="Solana"></a>
 <a href = "#"><img src="https://camo.githubusercontent.com/a558c697f75b1838c22714b488119106d83d8238a9344b8c0c8dad418729f8f7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f452f657468657265756d2d6c6f676f2d454336434442413435422d7365656b6c6f676f2e636f6d2e706e67" width="60" title="Ethereum"></a>
 <a href = "#"><img src="https://camo.githubusercontent.com/935fa4512112cfcf3294394737dfc998e43074ed75d0c78cf4495e4e750b3c69/68747470733a2f2f7265732e636f696e70617065722e636f6d2f636f696e70617065722f626974636f696e5f6274635f6c6f676f5f363263353962383237652e706e67" width="60" title="Bitcoin"></a>
-> Mastered Solana dApp
 
-> Extensive experience in developing Solana Smart Contract using Anchor Framework
 ### Familiar with: 
 
 <a href = "#"><img src="https://github.com/HarmoniTech/HarmoniTech/raw/main/img/logo/Sei.png" width="50" title="SEI"></a>
