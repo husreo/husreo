@@ -9,7 +9,6 @@
 >I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of proven experience. My focus is on ``` dApp, Smart Contract, web development ``` on the ``` Solana chain (as well as Ethereum, Bitcoin Rune & Ordinal, SEI)```. I have worked on ``` NFTs, play-to-earn games, casinos, DeFi, DEX, and DAO projects ```, as well as frontend development. Additionally, I have experience working as a ``` Full-Stack Engineer ```, primarily building robust APIs, with skills in ``` React, Next.js, TypeScript, NodeJS, Rust, Golang ``` , and other frameworks.
 
 ### Link to:
-<a href = "https://discord.com/channels/@user/1169601798970036317"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord"></a>
 <a href = "https://web.skype.com/8:live:.cid.27aeb1981557f74c?inviteId=yG5gKNXqR69e&correlationId=d1e155b3-f289-4269-b589-b4a9c6b75bd6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="50" title="Skype"></a>
 <a href = "https://twitter.com/husreo_tx"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"></a>
 <a href = "https://t.me/setoqu"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram"></a>
