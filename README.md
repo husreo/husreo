@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="80" title="Discord">
-
-
 - 📫 How to reach me: <a href = "https://www.steven-springer.com/">Portfolio</a>
 - 😄 Pronouns: He/him
 
