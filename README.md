@@ -24,6 +24,9 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 |  Pumpfun sniper bot (bundler) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/solana-pump.fun-sniper-bot) |
 |  Solana AI Agent (tweet agent) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Twitter-AI-Agent) |
 |  Wallet Tracking bot | TypeScript, Solana Web3.js, Discord bot         | [repo](https://github.com/husreo/Solana-wallet-track-bot) |
+|  Coinflip casino game | TypeScript, Solana Web3.js, React, Node.js, Anchor, Rust, Chainlink        | [frontend repo](https://github.com/husreo/coinflip-frontend) |
+|   |          | [backend repo](https://github.com/husreo/coinflip-backend) |
+|   |          | [smart contract repo](https://github.com/husreo/Coinflip-smart-contract) |
 ---
 
 ### 📬 Contact
