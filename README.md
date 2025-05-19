@@ -28,7 +28,7 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 
 ### 📬 Contact
 
-- 🌐 [Portfolio](https://steven-springer.com) *(your portfolio, if available)*
+- 🌐 [Portfolio](https://steven-springer.com)
 - ✉️ [Email](springers230@gmail.com)
 - 🐦 [X](https://x.com/Pup5ol)
 
