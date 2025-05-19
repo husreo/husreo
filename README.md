@@ -18,7 +18,7 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 
 | Project            | Tech Stack                         | Link                                                  |
 |--------------------|------------------------------------|--------------------------------------------------------------|
-|  Pumpfun smart contract | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Solana-pump.fun-smart-contract) |
+|  Pumpfun smart contract | Solana, Rust, Anchor, Typescript         | [repo](https://github.com/husreo/Solana-pump.fun-smart-contract) |
 |  Solana Raydium Volume bot (bundler) - CLMM, CPMM | Solana, TypeScript, Web3.js, Raydium SDK        | [repo](https://github.com/husreo/Solana-Pumpswap-Raydium-Volum-Bot) |
 |  Solana Pumpswap Volume bot (bundler) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Solana-Pumpswap-Raydium-Volum-Bot) |
 |  Pumpfun sniper bot (bundler) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/solana-pump.fun-sniper-bot) |
