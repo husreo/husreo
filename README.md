@@ -34,6 +34,7 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 - 🌐 [Portfolio](https://steven-springer.com)
 - ✉️ [Email](springers230@gmail.com)
 - 🐦 [X](https://x.com/Pup5ol)
+- 🌐 [Telegram](https://t.me/stevensprg)
 
 ---
 
