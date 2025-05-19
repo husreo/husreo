@@ -16,10 +16,10 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 
 ### 🧩 Latest Project
 
-| Project            | Tech Stack                         | Description                                                  |
+| Project            | Tech Stack                         | Link                                                  |
 |--------------------|------------------------------------|--------------------------------------------------------------|
-| 🐙 Raydium Trading Bot | Solana, TypeScript, Web3.js         | A bot that snipes tokens and executes trades via Raydium AMM |
-
+| 💊 Pumpfun smart contract | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Solana-pump.fun-smart-contract) |
+| 💊 Pumpfun smart contract | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Solana-pump.fun-smart-contract) |
 ---
 
 ### 📬 Contact
