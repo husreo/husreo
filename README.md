@@ -27,6 +27,7 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 |  Coinflip casino game | TypeScript, Solana Web3.js, React, Node.js, Anchor, Rust, Chainlink        | [frontend repo](https://github.com/husreo/coinflip-frontend) |
 |   |          | [backend repo](https://github.com/husreo/coinflip-backend) |
 |   |          | [smart contract repo](https://github.com/husreo/Coinflip-smart-contract) |
+|  Copy trading bot | Rust, Solana Web3.js, Cargo         | [repo](https://github.com/husreo/Copy-trading-bot) |
 ---
 
 ### 📬 Contact
