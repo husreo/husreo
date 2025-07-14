@@ -32,7 +32,6 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 
 ### 📬 Contact
 
-- 🌐 [Portfolio](https://blockchainprofile.vercel.app)
 - ✉️ [Email](borislee0622@gmail.com)
 - 🌐 [Telegram](https://t.me/@da1asin)
 
