@@ -32,10 +32,9 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 
 ### 📬 Contact
 
-- 🌐 [Portfolio](https://steven-springer.com)
-- ✉️ [Email](springers230@gmail.com)
-- 🐦 [X](https://x.com/Pup5ol)
-- 🌐 [Telegram](https://t.me/stevensprg)
+- 🌐 [Portfolio](https://blockchainprofile.vercel.app)
+- ✉️ [Email](borislee0622@gmail.com)
+- 🌐 [Telegram](https://t.me/@da1asin)
 
 ---
 
