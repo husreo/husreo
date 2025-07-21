@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Steven
+## 👋 Hi, I'm Boris
 
 I'm a full-stack blockchain developer passionate for development website, web3 dApp and trading bot on several blockchain.
 
