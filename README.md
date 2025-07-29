@@ -14,27 +14,4 @@ I'm a full-stack blockchain developer passionate for development website, web3 d
 
 ---
 
-### 🧩 Latest Project
-
-| Project            | Tech Stack                         | Link                                                  |
-|--------------------|------------------------------------|--------------------------------------------------------------|
-|  Pumpfun smart contract | Rust, Anchor, Typescript         | [repo](https://github.com/husreo/Solana-pump.fun-smart-contract) |
-|  Solana Raydium Volume bot (bundler) - CLMM, CPMM | Solana, TypeScript, Web3.js, Raydium SDK        | [repo](https://github.com/husreo/Solana-Pumpswap-Raydium-Volum-Bot) |
-|  Solana Pumpswap Volume bot (bundler) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Solana-Pumpswap-Raydium-Volum-Bot) |
-|  Pumpfun sniper bot (bundler) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/solana-pump.fun-sniper-bot) |
-|  Solana AI Agent (tweet agent) | Solana, TypeScript, Web3.js         | [repo](https://github.com/husreo/Twitter-AI-Agent) |
-|  Wallet & token Tracking bot | TypeScript, Solana Web3.js, Discord bot         | [repo](https://github.com/husreo/Solana-wallet-track-bot) |
-|  Coinflip casino game | TypeScript, Solana Web3.js, React, Node.js, Anchor, Rust, Chainlink        | [frontend repo](https://github.com/husreo/coinflip-frontend) |
-|   |          | [backend repo](https://github.com/husreo/coinflip-backend) |
-|   |          | [smart contract repo](https://github.com/husreo/Coinflip-smart-contract) |
-|  Copy trading bot | Rust, Solana Web3.js, Cargo         | [repo](https://github.com/husreo/Copy-trading-bot) |
----
-
-### 📬 Contact
-
-- ✉️ [Email](borislee0622@gmail.com)
-- 🌐 [Telegram](https://t.me/@da1asin)
-
----
-
 > Always building, always learning 🚀
